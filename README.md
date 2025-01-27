@@ -20,7 +20,8 @@
 
 ## 🚀 Languages and Tools:
 <p align = "center">
- <a href="" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/></a>
+ <a href="https://react.dev/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/></a>
+ <a href="https://tailwindcss.com/" target="_blank"><img width="50" height="50" src="https://img.icons8.com/fluency/50/tailwind_css.png" alt="tailwind_css"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
